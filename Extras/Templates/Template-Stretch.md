@@ -1,7 +1,6 @@
 ---
 muscles:
-tempo: 2-1-2
-gym:
+group: General
 ---
 # GIF 
 

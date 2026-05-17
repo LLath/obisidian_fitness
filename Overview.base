@@ -1,0 +1,38 @@
+filters:
+  and:
+    - file.folder.startsWith("Daily")
+properties:
+  note.ft-calories:
+    displayName: Calories
+  note.workout done:
+    displayName: Workout
+  note.weight:
+    displayName: Weight in KG
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder.startsWith("Daily")
+    order:
+      - file.name
+      - ft-calories
+      - workout done
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: ft-calories
+        direction: DESC
+    columnSize:
+      file.name: 141
+      note.ft-calories: 116
+      note.workout done: 92
+      note.weight: 119
+  - type: table
+    name: Weight
+    filters:
+      and:
+        - "!weight.isEmpty()"
+    order:
+      - file.name
+      - weight
