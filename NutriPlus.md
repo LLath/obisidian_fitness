@@ -13,3 +13,7 @@
 | [[Cookie_Dough_6K_Protein]]             | Kann den geschmack nicht erkennen                                  |
 | Strawberry                              | Ok                                                                 |
 | [[6K_Salted_Caramel]]                   | OK geschmack                                                       |
+| [[6K_Protein_Milchreis_Zimt]]           | Leichter Zimt geschmack, geruch ist sehr stark                     |
+| [[6K_Protein_Nougat_Choc_Nut]]          | Lecker                                                             |
+| [[6K_chocolate_Coconut]]                | OK                                                                 |
+| [[6K_Protein_Chocolate_Fudge_Flavour]]  | Guter geschmack schokolade + weich                                 |
