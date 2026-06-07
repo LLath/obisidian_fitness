@@ -8,9 +8,9 @@ sugar: 0.6
 fiber: 2.5
 protein: 20.7
 sodium: 480
-serving_size: 100
+serving_size: 175
 barcode: "4335896750200"
-brand: "K-take it veggie, Kaufland"
-url: "https://world.openfoodfacts.org/product/4335896750200"
+brand: K-take it veggie, Kaufland
+url: https://world.openfoodfacts.org/product/4335896750200
 ---
 175g

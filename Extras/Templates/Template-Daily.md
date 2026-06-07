@@ -12,7 +12,7 @@ weight:
 # Food intake
 
 #### Frühstück
-#food [[Holy_Energy]] 500ml
+#food [[Holy_Energy]] 1pc
 
 
 #### Mittag
@@ -30,6 +30,7 @@ weight:
 burns 40/1000 steps
 #workout 
 
+[Dance](https://www.youtube.com/watch?v=H-QVJpZn8bw)
 # Workout Program
 [[Program v.1]]
 <%* 
@@ -66,3 +67,10 @@ const daysLeft = targetDate.diff(now, 'days');
 - 115kg
 - Bridge? [Dani Winks progression](https://www.daniwinksflexibility.com/bendy-blog/the-ultimate-bridge-pose-progression-guide)
 - https://www.strongrfastr.com/de/1800-kalorien-vegan-ernaehrungsplan
+
+
+# TODOs
+- create different routines
+	- Small 
+	- Standard
+	- Expanded

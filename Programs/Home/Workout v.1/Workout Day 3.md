@@ -17,7 +17,7 @@
 	- [ ] 10
 	- [ ] 10
 #### Exercise 3
-- [ ] [[Step-Up]] 
+- [ ] Bulgarian Split Squat (chair)
 	- [ ] 8
 	- [ ] 8
 	- [ ] 8
