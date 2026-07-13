@@ -8,9 +8,9 @@ sugar: 0.5
 fiber: 0
 protein: 6.1
 sodium: 220
-serving_size: 100
+serving_size: 260
 barcode: "4002015501622"
-brand: "Krini"
-url: "https://world.openfoodfacts.org/product/4002015501622"
+brand: Krini
+url: https://world.openfoodfacts.org/product/4002015501622
 ---
 260g

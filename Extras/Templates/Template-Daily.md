@@ -6,14 +6,14 @@ workout done:
 weight:
 ---
 - [ ] Steps 7500
-- [ ] [[DoC|Daily Stretching]]
+- [ ] [[DoC|Daily Stretching]] | https://www.youtube.com/watch?v=m9gMzFngyxY
 - [ ] Dancing 10min
 
 # Food intake
 
 #### Frühstück
 #food [[Holy_Energy]] 1pc
-
+#food [[6K_Protein_Nougat_Choc_Nut]] 40g
 
 #### Mittag
 #food [[]] 500g
@@ -31,23 +31,39 @@ burns 40/1000 steps
 #workout 
 
 [Dance](https://www.youtube.com/watch?v=H-QVJpZn8bw)
+
+# Body Mindfulness
+### Isolation Upper Body
+-  Chest
+	- Forwards
+	- Backwards
+- Ripcage
+	- Forwards
+	- Backwards
+	- Sideways
+### Isolation Lower Body
+- Hips
+	- Left
+	- Right
+	- Forwards
+	- Backwards
 # Workout Program
-[[Program v.1]]
+[[Programs/Gym/Workout v.1/Program v.1|Program v.1]]
 <%* 
 const day = await tp.date.now("dddd") 
 let template_use = ""
 switch (day) {
+	case "Monday":
+		template_use = tp.file.include("[[Workout Legs 1]]");
+		break;
 	case "Tuesday":
-		template_use = tp.file.include("[[Workout Day 1]]");
+		template_use = tp.file.include("[[Workout Upper 1]]");
 		break;
 	case "Thursday":
-		template_use = tp.file.include("[[Workout Day 2]]");
+		template_use = tp.file.include("[[Workout Legs 2]]");
 		break;
 	case "Friday":
-		template_use = tp.file.include("[[Workout Day 3]]");
-		break;
-	case "Sunday":
-		template_use = tp.file.include("[[Workout Day 4]]");
+		template_use = tp.file.include("[[Workout Upper 2]]");
 		break;
 	default:
 		template_use = ""
@@ -59,18 +75,24 @@ switch (day) {
 
 # Goals
 <%*
-const targetDate = moment("2026-06-30", "YYYY-MM-DD");
+const targetDate = moment("2026-08-31", "YYYY-MM-DD");
 const now = moment();
 const daysLeft = targetDate.diff(now, 'days');
 %>
 <% daysLeft %> Tage übrig:
-- 115kg
-- Bridge? [Dani Winks progression](https://www.daniwinksflexibility.com/bendy-blog/the-ultimate-bridge-pose-progression-guide)
-- https://www.strongrfastr.com/de/1800-kalorien-vegan-ernaehrungsplan
+- 105kg
+- Front splits
+- Jede woche tanzen
+- Bridge progression
+- Needle?
 
 
 # TODOs
 - create different routines
-	- Small 
+	- Small
 	- Standard
 	- Expanded
+	- https://www.daniwinksflexibility.com/bendy-blog/getting-a-pointier-toe-pointe
+	- https://www.youtube.com/watch?v=ZCxVt_ABxJI
+	- https://www.youtube.com/watch?v=BsvDc-d6lO8
+	- https://www.youtube.com/shorts/8brCzOZv_WM

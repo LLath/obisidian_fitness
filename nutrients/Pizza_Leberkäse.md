@@ -8,9 +8,9 @@ sugar: 1.3
 fiber: 0
 protein: 15
 sodium: 708
-serving_size: 100
+serving_size: 175
 barcode: "4063367240713"
-brand: "Kaufland Classic"
-url: "https://world.openfoodfacts.org/product/4063367240713"
+brand: Kaufland Classic
+url: https://world.openfoodfacts.org/product/4063367240713
 ---
 175g

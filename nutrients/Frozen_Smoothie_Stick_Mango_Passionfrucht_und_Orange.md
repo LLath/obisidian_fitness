@@ -8,9 +8,9 @@ sugar: 18
 fiber: 7.7
 protein: 0.3
 sodium: 4
-serving_size: 100
+serving_size: 70
 barcode: "5901028920194"
-brand: "Kaufland,Greenyard Frozen"
-url: "https://world.openfoodfacts.org/product/5901028920194"
+brand: Kaufland,Greenyard Frozen
+url: https://world.openfoodfacts.org/product/5901028920194
 ---
 70g pro stück

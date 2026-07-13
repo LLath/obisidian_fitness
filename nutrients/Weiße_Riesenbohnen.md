@@ -8,9 +8,9 @@ sugar: 1
 fiber: 9.3
 protein: 6.4
 sodium: 160
-serving_size: 100
+serving_size: 250
 barcode: "8002920017993"
-brand: "Kaufland, K-Classic"
-url: "https://world.openfoodfacts.org/product/8002920017993"
+brand: Kaufland, K-Classic
+url: https://world.openfoodfacts.org/product/8002920017993
 ---
 250g

@@ -8,7 +8,7 @@ sugar: 0
 fiber: 1.2
 protein: 2.8
 sodium: 2100
-serving_size: 100
+serving_size: 120
 barcode: ""
 brand: ""
 url: ""

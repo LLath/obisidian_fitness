@@ -8,10 +8,10 @@ sugar: 2.7
 fiber: 3.8
 protein: 4.5
 sodium: 1000
-serving_size: 100
+serving_size: 12.5
 barcode: "4063367307218"
-brand: "Kaufland, Ponnath"
-url: "https://world.openfoodfacts.org/product/4063367307218"
+brand: Kaufland, Ponnath
+url: https://world.openfoodfacts.org/product/4063367307218
 ---
 <100g 8 scheiben
 ca. 13g pro scheibe? 

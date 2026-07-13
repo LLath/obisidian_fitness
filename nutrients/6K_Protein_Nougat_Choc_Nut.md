@@ -8,9 +8,9 @@ sugar: 0.8
 fiber: 4.2
 protein: 75
 sodium: 0
-serving_size: 100
+serving_size: 40
 barcode: "4260351437436"
-brand: "nutri+"
-url: "https://world.openfoodfacts.org/product/4260351437436"
+brand: nutri+
+url: https://world.openfoodfacts.org/product/4260351437436
 ---
 

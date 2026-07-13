@@ -8,9 +8,9 @@ sugar: 29
 fiber: 1.2
 protein: 5.1
 sodium: 48
-serving_size: 100
+serving_size: 84
 barcode: "4337185611322"
-brand: "K-Classic, Kaufland"
-url: "https://world.openfoodfacts.org/product/4337185611322"
+brand: K-Classic, Kaufland
+url: https://world.openfoodfacts.org/product/4337185611322
 ---
 84g

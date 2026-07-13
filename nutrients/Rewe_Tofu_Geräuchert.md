@@ -8,10 +8,10 @@ sugar: 0.5
 fiber: 1
 protein: 15
 sodium: 354
-serving_size: 100
+serving_size: 175
 barcode: "4070308048840"
-brand: "Rewe Bio"
-url: "https://world.openfoodfacts.org/product/4070308048840"
+brand: Rewe Bio
+url: https://world.openfoodfacts.org/product/4070308048840
 ---
 350g
 2 x 175g

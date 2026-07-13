@@ -8,7 +8,7 @@ sugar: 0
 fiber: 0
 protein: 10
 sodium: 0
-serving_size: 100
+serving_size: 17
 barcode: ""
 brand: ""
 url: https://fddb.mobi/de/diverse_piroggen_mit_fleisch__fuellung_fleisch.html
