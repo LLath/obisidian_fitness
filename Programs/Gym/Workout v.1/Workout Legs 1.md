@@ -1,50 +1,62 @@
 
-## Hip thrusts
+## Beinstrecker
 
 | Reps | Weight (kg) | Notes |
-| :--- | :---------- | :---- |
-| 10   | 63          |       |
-| 10   | 72          |       |
-| 10   | 99          |       |
-| 10   | 99          |       |
+| ---- | ----------- | ----- |
+| 8    | 68          |       |
+| 7    | 68          |       |
+| 6    | 68          |       |
 
-## Pendulum Squat
+## Hip thrusts liegend
 
-| Reps | Weight (kg) | Notes                     |
-| ---- | ----------- | ------------------------- |
-| 10   | 45          | Schwer position zu finden |
-| 8    | 54          |                           |
-| 8    | 50          |                           |
+Schwieriger
+
+| Reps | Weight (kg) | Notes                      |
+| :--- | :---------- | :------------------------- |
+| 8    | 50          |                            |
+| 7    | 50          | Viel schwerer als standing |
+| 7    | 50          |                            |
+|      |             |                            |
+
+
+## Beinpresse
+
+| Reps | Weight (kg) | Notes                        |
+| ---- | ----------- | ---------------------------- |
+| 10   | 117         |                              |
+| 10   | 108         | 117 schwer von startposition |
+| 9    | 108         |                              |
+
 
 ## RDL
 
-| Reps | Weight (kg) | Notes                     |
-| ---- | ----------- | ------------------------- |
-| 10   | 27          | Schwer position zu finden |
-| 10   | 32          |                           |
-| 10   | 32          |                           |
+| Reps | Weight (kg) | Notes                    |
+| ---- | ----------- | ------------------------ |
+| 10   | 30          | Griff lässt nach         |
+| 8    | 40          | Muss Zug Hilfe mitnehmen |
+| 8    | 40          |                          |
 
 ## Beinbeuger
 
-| Reps | Weight (kg) | Notes                     |
-| ---- | ----------- | ------------------------- |
-| 8    | 27          | Schwer position zu finden |
-| 10   | 32          |                           |
-| 10   | 32          |                           |
+| Reps | Weight (kg) | Notes |
+| ---- | ----------- | ----- |
+| 10   | 32          |       |
+| 9    | 36          |       |
+| 8    | 41          |       |
+## Abduktion standing
 
-## Abduktion
+| Reps | Weight (kg) | Notes            |
+| ---- | ----------- | ---------------- |
+| 10   | 22.5        | Leicht           |
+| 10   | 30          |                  |
+| 10   | 37.5        | Nicht ganz außen |
+
+## Adduktion
+
 | Reps | Weight (kg) | Notes           |
 | ---- | ----------- | --------------- |
-| 10   | 36          |                 |
-| 10   | 63          | working set     |
-| 10   | 72          | Keine volle ROM |
-| 10   | 63          |                 |
-## Adduktion
-| Reps | Weight (kg) | Notes                        |
-| ---- | ----------- | ---------------------------- |
-| 10   | 32          | aufwärmen                    |
-| 10   | 50          | 50 war einfach 40 war schwer |
-| 10   | 41          |                              |
-| 15   | 45          |                              |
-
+| 10   | 32          | aufwärmen       |
+| 7+1  | 41          | Einen geholfen  |
+| 9+1  | 41          |                 |
+| 7+3  | 41          | letzte  dehnung |
 
