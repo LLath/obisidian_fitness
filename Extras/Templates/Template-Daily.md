@@ -54,16 +54,16 @@ const day = await tp.date.now("dddd")
 let template_use = ""
 switch (day) {
 	case "Monday":
-		template_use = tp.file.include("[[Workout Legs 1]]");
-		break;
-	case "Tuesday":
 		template_use = tp.file.include("[[Workout Upper 1]]");
 		break;
+	case "Tuesday":
+		template_use = tp.file.include("[[Workout Legs 1]]");
+		break;
 	case "Thursday":
-		template_use = tp.file.include("[[Workout Legs 2]]");
+		template_use = tp.file.include("[[Workout Upper 2]]");
 		break;
 	case "Friday":
-		template_use = tp.file.include("[[Workout Upper 2]]");
+		template_use = tp.file.include("[[Workout Legs 2]]");
 		break;
 	default:
 		template_use = ""
