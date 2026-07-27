@@ -8,9 +8,9 @@ sugar: 0
 fiber: 6
 protein: 8
 sodium: 200
-serving_size: 100
+serving_size: 255
 barcode: "4063367156823"
-brand: "K Classic"
-url: "https://world.openfoodfacts.org/product/4063367156823"
+brand: K Classic
+url: https://world.openfoodfacts.org/product/4063367156823
 ---
 
