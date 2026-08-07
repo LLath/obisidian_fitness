@@ -8,7 +8,7 @@ sugar: 4.9
 fiber: 3.8
 protein: 14
 sodium: 2700
-serving_size: 100
+serving_size: 90
 barcode: "4031446204352"
 brand: Kaufland
 url: https://world.openfoodfacts.org/product/4031446204352
