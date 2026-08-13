@@ -3,6 +3,8 @@ startdate: 2026-07-09
 enddate:
 gym: true
 ---
+https://www.liftosaur.com/p/9ded4e67
+
 # Day 1 (Donnerstag)
 ![[Workout Legs 1]]
 # Day 2 (DAY)
