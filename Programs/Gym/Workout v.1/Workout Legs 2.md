@@ -1,68 +1,58 @@
 
 ## RDL hanteln
 
-| Reps | Weight (kg) | Notes                                                 |
-| ---- | ----------- | ----------------------------------------------------- |
-| 9    | 36          | Form viel besser, kann mich auf Hintern konzentrieren |
-| 7    | 36          |                                                       |
-| 5    | 36          | Schultern und rücken müssen erstmal stärker werden    |
+| Reps | Weight (kg) | Notes                                          |
+| ---- | ----------- | ---------------------------------------------- |
+| 8    | 38          | Irgendwas ist anders heute. Bin schwächer hier |
+| 6    | 38          | Schultern schreien                             |
+| 5    | 38          |                                                |
+
 
 ## Beinpresse frei gewicht
 
-| Reps | Weight (kg) | Notes     |
-| ---- | ----------- | --------- |
-| 10   | 90          | Volle rom |
-| 9    | 100         |           |
-| 5    | 110         |           |
-
-## Bulgarian
-Linkes Knie tut weh wenn es passiv ist
-
-| Reps | Weight (kg) pro hand | Notes          |
-| :--- | :------------------- | :------------- |
-| 10   | 5                    | Links anfangen |
-| 6    | 8                    |                |
-| 7    | 8                    |                |
+| Reps | Weight (kg) | Notes        |
+| ---- | ----------- | ------------ |
+| 7    | 120         | Da geht mehr |
+| 8    | 100         |              |
+| 9    | 100         |              |
 
 ## Beinstrecker
 
-| Reps | Weight (kg) | Notes             |
-| ---- | ----------- | ----------------- |
-| 8    | 72          |                   |
-| 7    | 72          | Knie pumpen stark |
-| 6    | 72          |                   |
+| Reps | Weight (kg) | Notes |
+| ---- | ----------- | ----- |
+| 8    | 77          |       |
+| 8    | 77          |       |
+| 5    | 77          |       |
 
 
-## Beinbeuger
+## Beinbeuger 
 
-| Reps | Weight (kg) | Notes                    |
-| ---- | ----------- | ------------------------ |
-| 6    | 45          | Unsauber. Form ist kacke |
-| 10   | 41          | Viel besser              |
-| 13   | 41          |                          |
+| Reps | Weight (kg) | Notes                                                       |
+| ---- | ----------- | ----------------------------------------------------------- |
+| 7+2  | 45          | Unsauber. Form ist kacke                                    |
+| 7    | 45          | Stagnieren hier?                                            |
+| 4    | 45          | Wtf, ich mache was falsch. Vielleicht nochmal runter gehen? |
 ## Abduktion stehend
 
-Sitzend ist schmerzhaft
-
-| Reps | Weight (kg) | Notes                           |
-| ---- | ----------- | ------------------------------- |
-| 10   | 45          |                                 |
-| 10   | 52.5        | Weiß nicht ob das gute Form ist |
-| 7    | 52.5        |                                 |
+| Reps | Weight (kg) | Notes                                                            |
+| ---- | ----------- | ---------------------------------------------------------------- |
+| 6    | 52.5        | 45 need for check here. Zu nah an crotch? 37.5 fühlt sich gut an |
+| 7    | 52.5        | Weiß nicht ob das gute Form ist 52.5                             |
+| 5    | 52.5        |                                                                  |
 
 ## Adduktion
 
 | Reps | Weight (kg) | Notes |
 | ---- | ----------- | ----- |
-| 6+3  | 54          | 9 50  |
-| 5+3  | 54          |       |
-| 7+1  | 54          |       |
+| 9+1  | 54          |       |
+| 6+2  | 54          |       |
+| 6    | 54          |       |
 
-## Back extension 
+## Back extension
 
 | Reps | Weight (kg) | Notes |
 | ---- | ----------- | ----- |
-|      |             |       |
-|      |             |       |
-|      |             |       |
+| 10   | 67.5        |       |
+| 7    | 75          |       |
+| 6+1  | 75          |       |
 
