@@ -1,7 +1,7 @@
-calories: 1800
-fats: 76
-protein: 147
-carbs: 172
+calories: 2391
+fats: 93
+protein: 179
+carbs: 209
 fiber: 50
 sugar: 50
 sodium: 2300
