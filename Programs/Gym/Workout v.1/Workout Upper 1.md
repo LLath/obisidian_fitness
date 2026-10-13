@@ -1,64 +1,57 @@
 
-## Hip thrusts liegend 
-
-Schwieriger 
-
-| Reps | Weight (kg) | Notes     |
-| :--- | :---------- | :-------- |
-| 12   | 60          |           |
-| 9    | 70          |           |
-| 5    | 80          | Schlechte |
-## Incline Bench (Freihanteln) 
-
-| Reps | Weight (kg) | Notes                      |
-| :--- | :---------- | :------------------------- |
-| 10   | 16          |                            |
-| 8    | 18          | Rechter Trizeps schwächelt |
-| 4    | 18          |                            |
-| 5    | 14          |                            |
-
-
-## Schultern freie Maschine 
-
-| Reps | Weight (kg) | Notes               |
-| ---- | ----------- | ------------------- |
-| 5    | 15          |                     |
-| 5    | 13.75       |                     |
-| 3    | 12.5        |                     |
-| 6+3  | 10          | Lock out ist schwer |
-
-
-## Rudern frei 
-
-| Reps | Weight (kg) | Notes         |
-| ---- | ----------- | ------------- |
-| 8    | 52          | 59 ging nicht |
-| 6    | 52          |               |
-| 5    | 52          |               |
-
-## Latzug frei 
-
-| Reps | Weight (kg) | Notes                                 |
-| ---- | ----------- | ------------------------------------- |
-| 6    | 59          |                                       |
-| 6    | 52          |                                       |
-| 5    | 52          | I'm so weak beim volume runter gehen  |
-
-
-## Butterfly hammer strength 
-
-| Reps | Weight (kg) | Notes       |
-| ---- | ----------- | ----------- |
-| 7    | 45          | Stuhl auf 6 |
-| 6    | 45          |             |
-| 4    | 45          |             |
-
-## Seitheben
+## Latzug frei X
 
 | Reps | Weight (kg) | Notes |
 | ---- | ----------- | ----- |
-| 10   | 10          |       |
+| 8    | 66          |       |
+| 6    | 66          |       |
+| 4    | 66          | 5     |
+
+### Assissted Pull Up X
+Weniger Gewicht = besser
+
+| Reps | Weight (kg) | Notes    |
+| ---- | ----------- | -------- |
+| 6    | 59          |          |
+| 5    | 59          | 2s pause |
+| 5    | 64          | 2s pause |
+
+
+## Militarypress? Shoulder press X
+
+
+| Reps | Weight (kg) pro seite | Notes |
+| ---- | --------------------- | ----- |
+| 10   | 17.5                  |       |
+| 6+1  | 17.5                  |       |
+| 4+1  | 17.5                  |       |
+
+
+## Rudern frei X
+
+| Reps | Weight (kg) | Notes |
+| ---- | ----------- | ----- |
+| 8    | 66          |       |
+| 5    | 66          |       |
+| 5    | 66          |       |
+
+
+## Seitheben -
+
+| Reps | Weight (kg) | Notes |
+| ---- | ----------- | ----- |
+| 10   | 8           | 11x7  |
+| 8    | 8           |       |
+| 8    | 8           |       |
+
+### Unilateral Kabelzug 
+Hand höhe und big stretch runter
+Stufe 7
+
+| Reps | Weight (kg) | Notes |
+| ---- | ----------- | ----- |
 | 9    | 9           |       |
-| 7    | 5           |       |
+| 6    | 9           |       |
+| 7    | 6.8         |       |
 
 
